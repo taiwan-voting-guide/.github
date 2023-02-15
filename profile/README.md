@@ -1,4 +1,3 @@
 # 選前大補帖
 
-## High Level Architecture
-![data-arch](https://user-images.githubusercontent.com/7200393/211141013-3bf1d9b1-a3b6-469d-8876-d6dffdc12f75.png)
+我們的目標是打造公開透明的選舉資訊平台，協助選民理性判斷候選人和政黨，投下有價值的一票。
